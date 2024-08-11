@@ -6,7 +6,7 @@
 
 ## 快速前往說明文件
 
-[![command](/.resource/指令相關.svg)](/指令/)
+[![command](/.resource/指令相關.svg)](/指令/index.md)
 
 ---
 
