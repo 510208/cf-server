@@ -37,6 +37,8 @@
 
 加入雲羽生存服非常簡單！您只需要[加入我們的Discord群組](https://samhacker.xyz/cloudfeathermc)，然後群組會教你加入！
 
+[![join-dc](https://discordapp.com/api/guilds/1186330030473748640/widget.png?style=banner4)](https://samhacker.xyz/cloudfeathermc)
+
 ## 聯繫與支援
 
 如果您在遊戲中遇到任何問題或有任何建議，請隨時通過我們的客服系統或社群平台與我們聯繫。我們的管理員和技術支持團隊將竭誠為您服務，確保您的問題能夠及時得到解決。
