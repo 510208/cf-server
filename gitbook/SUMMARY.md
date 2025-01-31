@@ -4,6 +4,7 @@
 
 ## 基礎知識 <a href="#basics" id="basics"></a>
 
+* [💻 遊戲版本](basics/version.md)
 * [📘 玩家規則](basics/rules.md)
 
 ## 指令相關 <a href="#comands" id="comands"></a>
@@ -17,3 +18,7 @@
 
 * [🔑 鑰匙](exclusive-items/key.md)
 * [🌠 展示櫃](exclusive-items/showcase.md)
+
+## 特別玩法 <a href="#special-play" id="special-play"></a>
+
+* [📦 箱子商店](special-play/xiang-zi-shang-dian.md)
