@@ -1,12 +1,6 @@
 ---
 description: 你要準備蓋家了嗎？使用這些指令吧^^
-cover: >-
-  https://whiter.lnstw.xyz/wp-content/uploads/2024/04/Default_As_the_sun_sets_behind_her_a_determined_anime_girl_sta_1.jpg
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:

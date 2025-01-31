@@ -1,5 +1,22 @@
 ---
 description: 你是新手玩家嗎？看看我們的規則吧
+cover: >-
+  https://images.unsplash.com/photo-1589578527966-fdac0f44566c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxsYXd8ZW58MHx8fHwxNzM4MjE3NDYzfDA&ixlib=rb-4.0.3&q=85
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 📘 玩家規則
@@ -160,7 +177,7 @@ description: 你是新手玩家嗎？看看我們的規則吧
 本規章中涉及到之管理員包括：
 
 * 伺服器之<mark style="color:red;background-color:red;">**正副服主**</mark>
-* <mark style="color:red;background-color:red;">**系統**</mark><mark style="color:red;background-color:red;">**工程師**</mark>或有相同、相等權限之用戶
+* <mark style="color:red;background-color:red;">**系統工程師**</mark>或有相同、相等權限之用戶
 * 經服主或擁有相應權力的伺服器工作人員所任命，在伺服器中擁有<mark style="color:red;background-color:red;">**超過玩家可擁有之權力及權利**</mark>（如修改權限與身分組設定、後台檢視權限、op、創造模式、非正常遊戲模式等）者
 * 經服主或擁有相應權力的伺服器工作人員所任命，在伺服器中<mark style="color:red;background-color:red;">**有權參與或直接、間接決斷伺服器相關事務**</mark>（無論重大與否）；或有權<mark style="color:red;background-color:red;">**公布規定且擁有正式效力**</mark>者
 * 經服主或擁有相應權力的伺服器工作人員所任命，在伺服器中有權<mark style="color:red;background-color:red;">**管理、糾正，或對玩家執行其他相等動作**</mark>者
@@ -219,7 +236,7 @@ description: 你是新手玩家嗎？看看我們的規則吧
 
 違反此規定者將視情節輕重，予以降級或移除權限
 
-### 8-7. 管理員行為規範
+### 8-6. 管理員行為規範
 
 管理員應保持良好態度，避免對玩家<mark style="background-color:red;">使用侮辱性語言或惡意嘲諷</mark>。
 

@@ -1,5 +1,22 @@
 ---
 description: 想進伺服器，要先知伺服器版本吧？
+cover: >-
+  https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHx2ZXJzaW9ufGVufDB8fHx8MTczODMyMjk5Mnww&ixlib=rb-4.0.3&q=85
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 💻 遊戲版本

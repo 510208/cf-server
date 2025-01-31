@@ -1,12 +1,6 @@
 ---
 description: 這些指令可以幫助你在雲羽生存服裡到處亂跑喔！用用看吧~~
-cover: >-
-  https://whiter.lnstw.xyz/wp-content/uploads/2024/04/Default_A_mystical_portal_of_swirling_energy_pulsing_with_vibr_0.jpg
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:

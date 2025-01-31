@@ -1,12 +1,6 @@
 ---
 description: 你想跟朋友好好聊天嗎？你想讓別人知道自己在幹嘛嗎？使用這裡列出的指令，跟你的朋友們快樂地聊天吧 (^v^)
-cover: >-
-  https://whiter.lnstw.xyz/wp-content/uploads/2024/04/Default_Two_girls_walking_through_a_bustling_city_street_their_0.jpg
-coverY: 136
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
