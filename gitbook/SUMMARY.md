@@ -5,7 +5,8 @@
 ## 基礎知識 <a href="#basics" id="basics"></a>
 
 * [💻 遊戲版本](basics/version.md)
-* [📘 玩家規則](basics/rules.md)
+* [📜 服內規則](basics/ingame-rules.md)
+* [📜 群組規則](basics/discord-rule.md)
 
 ## 指令相關 <a href="#comands" id="comands"></a>
 
