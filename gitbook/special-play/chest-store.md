@@ -4,6 +4,8 @@ description: 在你的家裡擺幾個箱子，箱子商店開張啦！
 
 # 📦 箱子商店
 
+<figure><img src="../.gitbook/assets/螢幕擷取畫面 2025-02-01 191829.jpg" alt=""><figcaption><p>箱子商店範例</p></figcaption></figure>
+
 ## 創建箱子商店
 
 創建一個自己的箱子商店，很簡單！
